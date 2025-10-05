@@ -1,0 +1,3 @@
+Apuntes rapidos sobre Python:
+La funcion open() requiere el nombre del archivo y el modo de interaccion.
+Para la lectura linea por linea se usa el metodo readline().
